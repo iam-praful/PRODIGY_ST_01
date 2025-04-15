@@ -46,6 +46,6 @@ This document contains a sample of the test cases designed for the Calculator Ap
 
 ---
 
-🔗 [View Full Test Case Sheet (Excel)]([link-to-your-excel-file-on-github](https://github.com/iam-praful/PRODIGY_ST_01.git))
+🔗 [View Full Test Case Sheet (Excel)](https://github.com/iam-praful/PRODIGY_ST_01.git)
 
 #ProdigyInfoTech #SoftwareTesting #ManualTesting #CalculatorApp
